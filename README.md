@@ -35,4 +35,4 @@ The application mainly contains three main folders :
         6)providers
         7)Services
         8)serviceImpl
-        9)threads
+        9)thread
